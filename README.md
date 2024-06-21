@@ -4,7 +4,7 @@ Pass in the path to your VMF and a output txt file:
 Path_Extract.exe "C:\Users\Me\Documents\paths.vmf" "C:\Users\Me\Documents\paths.txt"
 
 Program will extract all path_track paths (except branches) in the below format:  
-
+```
 path_0   | -832     | 64       | 16      
 path_1   | -1008    | -64      | 16      
 path_2   | -1152    | -464     | 16      
@@ -32,3 +32,4 @@ END PATH
 
 branch_2 | -304     | 496      | -8.00006
 END PATH
+```
