@@ -1,7 +1,7 @@
 # VMF Path Extractor
 
 Pass in the path to your VMF and a output txt file:  
-Path_Extract.exe "C:\Users\Me\Documents\paths.vmf" "C:\Users\Me\Documents\paths.txt"
+VMF_PathExtractor.exe "C:\Users\Me\Documents\paths.vmf" "C:\Users\Me\Documents\paths.txt"
 
 Program will extract all path_track paths (except branches) in the below format:  
 ```
