@@ -15,7 +15,6 @@ class VMF_PathExtractor
         public int Id { get; set; }
         public string? Name { get; set; }
         public string? Next { get; set; }
-        public bool MarkDelete { get; set; }
 
         public XYZ Coords = new XYZ();
 
